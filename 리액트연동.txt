@@ -28,3 +28,15 @@ https://phsun102.tistory.com/23
   
  아래 경로로 리액트 앱이 실행됨
   http://localhost:3000/
+
+ 4) VS Code 설치
+  설치가이드
+   https://crazykim2.tistory.com/748
+
+  설치파일 공식사이트
+   https://code.visualstudio.com/ 
+
+  한국어 설정
+   https://kcmschool.com/196
+  
+  
